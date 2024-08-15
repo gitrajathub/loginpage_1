@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitrajathub/loginpage_1/static/css/main.14f7ac61.css",
+    "main.js": "/gitrajathub/loginpage_1/static/js/main.dc9946a2.js",
+    "static/js/453.cc25806d.chunk.js": "/gitrajathub/loginpage_1/static/js/453.cc25806d.chunk.js",
+    "index.html": "/gitrajathub/loginpage_1/index.html",
+    "main.14f7ac61.css.map": "/gitrajathub/loginpage_1/static/css/main.14f7ac61.css.map",
+    "main.dc9946a2.js.map": "/gitrajathub/loginpage_1/static/js/main.dc9946a2.js.map",
+    "453.cc25806d.chunk.js.map": "/gitrajathub/loginpage_1/static/js/453.cc25806d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f7ac61.css",
+    "static/js/main.dc9946a2.js"
+  ]
+}
